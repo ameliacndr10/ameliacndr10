@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💻 Amelia Candradewi
-🔭 Informatics Engineering student at Telkom University Purwokerto
-🕵️‍♀️ Passionate about Cyber Security
-🌱 I’m currently learning Go, MySQL
-🌻 Always be confident and brave in everything until my eyes see that dream. Contribute to open source projects🌻
+👩‍💻 Amelia Candradewi 
+🔭 Informatics Engineering student at Telkom University Purwokerto 
+🕵️‍♀️ Passionate about Cyber Security 
+🌱 I’m currently learning Go, MySQL 
+🌻 Always be confident and brave in everything until my eyes see that dream.  Contribute to open source projects🌻
 
 
 
