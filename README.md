@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👩‍💻 Amelia Candradewi  
 🔭 Informatics Engineering student at Telkom University Purwokerto  
-🕵️‍♀️ Passionate about Artificial Intelligence
+🕵️‍♀️ Passionate about Artificial Intelligence  
 🌱 I’m currently learning Python, MySQL, Go, Design web  
 🌻 Always be confident and brave in everything until my eyes see that dream.    Contribute to open source projects🌻
 
